@@ -2,6 +2,7 @@ import React, { useRef, useEffect } from 'react';
 import { render } from 'react-dom';
 import * as PIXI from 'pixi.js'
 import './style.css';
+import pic from './'
 
 function App () {
 
